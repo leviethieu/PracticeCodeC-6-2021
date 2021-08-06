@@ -1,0 +1,7 @@
+100123,Dang Linh,12/2/1995,classA
+100121,Van Luc,11/7/1995,classB
+100127,Viet Hieu,16/2/1997,classA
+100100,Duy Manh,14/9/1997,classA
+100129,Hoa Minh,1/2/1996,classA
+100111,Tien Dat,17/9/1997,classA
+100120,Van Linh,10/2/1999,classA
